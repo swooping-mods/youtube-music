@@ -1,0 +1,12 @@
+{
+  "id": "youtube-music",
+  "kind": "native",
+  "version": "0.1.1",
+  "display_name": "YouTube Music",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Every player needs YouTube Music and its music helper.",
+    "Use the music panel to select a YouTube track. The crew host controls playback."
+  ]
+}
