@@ -1,5 +1,7 @@
 # YouTube Music
 
+<img src="media/icon.png" alt="YouTube Music icon" width="128" height="128">
+
 Host-controlled YouTube music with guest catch-up and local volume.
 
 ## Install
