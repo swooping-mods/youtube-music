@@ -6,7 +6,9 @@ Host-controlled YouTube music with guest catch-up and local volume.
 
 Install [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) first.
 
-Download [youtube-music-0.1.1.msmod](content/youtube-music-0.1.1.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
+Download [youtube-music-0.1.1.msmod](content/youtube-music-0.1.1.msmod), then drag and drop the `.msmod` file onto the [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) window. You can also use **Add mods…** (older loader builds: **Install mod package**).
+
+Select the mod and its required frameworks, click **Prepare files**, then **Launch**.
 
 ## Controls
 
