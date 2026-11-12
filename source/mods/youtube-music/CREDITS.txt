@@ -1,2 +1,18 @@
-Small Loop Works: mod and shared adapter code.
-Moon Sweepers: DragDrop Games.
+YouTube Music's mod, helper, panel and music-note package artwork are original
+project work. No project license is added. No music is bundled.
+
+Steam transport and IL2CPP/GC approach: adapted from this same project's
+mods/slime-pet/pet_transport.h and unity.h, independently scoped so unrelated
+feature edits cannot silently change this mod. runtime/native/gameplay.h supplies
+the existing source-pinned callback boundary. No decompiled game bodies copied.
+
+User-installed tools, invoked but not redistributed:
+yt-dlp: https://github.com/yt-dlp/yt-dlp (Unlicense/component notices)
+FFmpeg: https://ffmpeg.org/legal.html (installed build's LGPL/GPL/component terms)
+Python: https://docs.python.org/3/license.html
+Optional PySide6/Qt: https://doc.qt.io/qtforpython-6/licenses.html
+Optional Deno: https://github.com/denoland/deno (MIT/component notices)
+
+Moon Sweepers and Unity remain their respective owners' proprietary inputs.
+YouTube videos remain their owners' content. Each helper independently resolves
+the selected video; no audio or dependency binary is redistributed in the mod.
